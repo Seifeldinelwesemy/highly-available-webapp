@@ -41,7 +41,8 @@ terraform apply
 ---
 
 ## Infrastructure Diagram
-![Blank diagram](https://github.com/user-attachments/assets/928bcb66-27be-4346-bbd7-f9a1c84881ca)
+![Blank diagram](https://github.com/user-attachments/assets/608c8520-eab5-4868-9ecb-4702d6027323)
+
 
 
 
